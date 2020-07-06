@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:orientation="vertical"
+        tools:context=".MainActivity">
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="短信布局"/>
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="居中约束布局" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="比例约束布局" />
+
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="角度约束布局" />
+
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="限制约束布局" />
+
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="链约束布局" />
+
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="参考线和屏障约束布局" />
+
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="分组布局" />
+
+        <Button
+            android:id="@+id/button9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="短信布局" />
+
+        <Button
+            android:id="@+id/button10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="短信布局" />
+
+        <Button
+            android:id="@+id/button11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="短信布局" />
+
+        <Button
+            android:id="@+id/button12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="短信布局" />
+
+        <Button
+            android:id="@+id/button13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="短信布局" />
+
+        <Button
+            android:id="@+id/button14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="短信布局" />
+
+    </LinearLayout>
+</ScrollView>
