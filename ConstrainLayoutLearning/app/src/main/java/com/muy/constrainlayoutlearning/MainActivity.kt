@@ -44,7 +44,19 @@ class MainActivity : AppCompatActivity() {
         }
 
         button9.setOnClickListener {
+            openPage(CircularRevealActivity::class.java)
+        }
 
+        button10.setOnClickListener {
+            openPage(PlaceHolderActivity::class.java)
+        }
+
+        button11.setOnClickListener {
+            openPage(ConstrainSetActivity::class.java)
+        }
+
+        button12.setOnClickListener {
+            openPage(FlowActivity::class.java)
         }
     }
 

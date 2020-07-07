@@ -24,6 +24,10 @@
         <activity android:name=".ChainStyleActivity" />
         <activity android:name=".GuideLineActivity" />
         <activity android:name=".GroupActivity" />
+        <activity android:name=".CircularRevealActivity" />
+        <activity android:name=".PlaceHolderActivity" />
+        <activity android:name=".ConstrainSetActivity" />
+        <activity android:name=".FlowActivity" />
     </application>
 
 </manifest>

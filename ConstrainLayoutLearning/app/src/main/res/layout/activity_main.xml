@@ -15,7 +15,7 @@
             android:id="@+id/button1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="短信布局"/>
+            android:text="常用Item布局"/>
 
         <Button
             android:id="@+id/button2"
@@ -63,37 +63,25 @@
             android:id="@+id/button9"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="短信布局" />
+            android:text="自定义ConstrainHelper" />
 
         <Button
             android:id="@+id/button10"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="短信布局" />
+            android:text="PlaceHolder约束布局" />
 
         <Button
             android:id="@+id/button11"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="短信布局" />
+            android:text="ConstainSet 动态设置约束" />
 
         <Button
             android:id="@+id/button12"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="短信布局" />
-
-        <Button
-            android:id="@+id/button13"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="短信布局" />
-
-        <Button
-            android:id="@+id/button14"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:text="短信布局" />
+            android:text="Flow 约束布局" />
 
     </LinearLayout>
 </ScrollView>
