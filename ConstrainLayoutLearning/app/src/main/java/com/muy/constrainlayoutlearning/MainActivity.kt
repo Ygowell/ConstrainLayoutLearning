@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         button1.setOnClickListener {
-            openPage(SmsActivity::class.java)
+            openPage(CommonActivity::class.java)
         }
 
         button2.setOnClickListener {

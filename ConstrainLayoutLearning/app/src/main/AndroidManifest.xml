@@ -16,7 +16,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".SmsActivity" />
+        <activity android:name=".CommonActivity" />
         <activity android:name=".CenterActivity" />
         <activity android:name=".RatioActivity" />
         <activity android:name=".ArcActivity" />
